@@ -1,3 +1,4 @@
+<img src="bwme.png">
 - 👋 Hi, I’m @joseamadomartinez
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning programming and technologies
