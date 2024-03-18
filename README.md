@@ -1,5 +1,4 @@
-<img src="ok.png">
-
+<img src="OK.png">
 <hr>
 - 👋 Hi, I’m @joseamadomartinez
 - 👀 I’m interested in technology
