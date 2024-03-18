@@ -1,5 +1,4 @@
-<body bgcolor="black">
-<img src="OK.png">
+<img src="OK1.png">
 <hr>
 
 
