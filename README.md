@@ -1,3 +1,4 @@
+<body bgcolor="black">
 <img src="OK.png">
 <hr>
 
